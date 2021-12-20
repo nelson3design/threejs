@@ -1,0 +1,7 @@
+.webgl{
+    /* width: 10vw;
+    height: 50vh; */
+    background-color: aqua;
+    display: grid;
+    place-items: center;
+}
